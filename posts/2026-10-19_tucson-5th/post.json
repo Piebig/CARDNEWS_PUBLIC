@@ -1,0 +1,17 @@
+{
+ "key": "tucson-5th",
+ "name": "2026-10-19_tucson-5th",
+ "status": "ready",
+ "candidate": "1-2",
+ "report_date": "2026-10-19",
+ "images": [
+  "https://cdn.jsdelivr.net/gh/piebig/cardnews_public@9454a296b3b400a4e22c5127cf4495ae260fc971/posts/2026-10-19_tucson-5th/01.jpg",
+  "https://cdn.jsdelivr.net/gh/piebig/cardnews_public@9454a296b3b400a4e22c5127cf4495ae260fc971/posts/2026-10-19_tucson-5th/02.jpg",
+  "https://cdn.jsdelivr.net/gh/piebig/cardnews_public@9454a296b3b400a4e22c5127cf4495ae260fc971/posts/2026-10-19_tucson-5th/03.jpg",
+  "https://cdn.jsdelivr.net/gh/piebig/cardnews_public@9454a296b3b400a4e22c5127cf4495ae260fc971/posts/2026-10-19_tucson-5th/04.jpg",
+  "https://cdn.jsdelivr.net/gh/piebig/cardnews_public@9454a296b3b400a4e22c5127cf4495ae260fc971/posts/2026-10-19_tucson-5th/05.jpg",
+  "https://cdn.jsdelivr.net/gh/piebig/cardnews_public@9454a296b3b400a4e22c5127cf4495ae260fc971/posts/2026-10-19_tucson-5th/06.jpg",
+  "https://cdn.jsdelivr.net/gh/piebig/cardnews_public@9454a296b3b400a4e22c5127cf4495ae260fc971/posts/2026-10-19_tucson-5th/07.jpg"
+ ],
+ "caption_url": "https://cdn.jsdelivr.net/gh/piebig/cardnews_public@9454a296b3b400a4e22c5127cf4495ae260fc971/posts/2026-10-19_tucson-5th/caption.txt"
+}
