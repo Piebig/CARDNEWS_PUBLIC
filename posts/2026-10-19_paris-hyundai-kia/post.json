@@ -1,0 +1,16 @@
+{
+ "key": "paris-hyundai-kia",
+ "name": "2026-10-19_paris-hyundai-kia",
+ "status": "ready",
+ "candidate": "1-2",
+ "report_date": "2026-10-19",
+ "images": [
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@d7f034b1866fd7638e4a433c2d1cb0471cfa7f00/posts/2026-10-19_paris-hyundai-kia/01.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@d7f034b1866fd7638e4a433c2d1cb0471cfa7f00/posts/2026-10-19_paris-hyundai-kia/02.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@d7f034b1866fd7638e4a433c2d1cb0471cfa7f00/posts/2026-10-19_paris-hyundai-kia/03.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@d7f034b1866fd7638e4a433c2d1cb0471cfa7f00/posts/2026-10-19_paris-hyundai-kia/04.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@d7f034b1866fd7638e4a433c2d1cb0471cfa7f00/posts/2026-10-19_paris-hyundai-kia/05.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@d7f034b1866fd7638e4a433c2d1cb0471cfa7f00/posts/2026-10-19_paris-hyundai-kia/06.jpg"
+ ],
+ "caption_url": "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@d7f034b1866fd7638e4a433c2d1cb0471cfa7f00/posts/2026-10-19_paris-hyundai-kia/caption.txt"
+}
