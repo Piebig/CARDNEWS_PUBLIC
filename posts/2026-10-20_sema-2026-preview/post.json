@@ -1,0 +1,16 @@
+{
+ "key": "sema-2026-preview",
+ "name": "2026-10-20_sema-2026-preview",
+ "status": "ready",
+ "candidate": "1-4",
+ "report_date": "2026-10-20",
+ "images": [
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@b978f491989794fc53172453af4032950d1092a7/posts/2026-10-20_sema-2026-preview/01.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@b978f491989794fc53172453af4032950d1092a7/posts/2026-10-20_sema-2026-preview/02.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@b978f491989794fc53172453af4032950d1092a7/posts/2026-10-20_sema-2026-preview/03.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@b978f491989794fc53172453af4032950d1092a7/posts/2026-10-20_sema-2026-preview/04.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@b978f491989794fc53172453af4032950d1092a7/posts/2026-10-20_sema-2026-preview/05.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@b978f491989794fc53172453af4032950d1092a7/posts/2026-10-20_sema-2026-preview/06.jpg"
+ ],
+ "caption_url": "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@b978f491989794fc53172453af4032950d1092a7/posts/2026-10-20_sema-2026-preview/caption.txt"
+}
