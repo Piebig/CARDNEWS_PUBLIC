@@ -1,0 +1,16 @@
+{
+ "key": "gv80-hybrid",
+ "name": "2026-10-25_gv80-hybrid",
+ "status": "ready",
+ "candidate": "1-2",
+ "report_date": "2026-10-25",
+ "images": [
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@a1b0ef5971009f73567cd157e37b3052aa9ccbe9/posts/2026-10-25_gv80-hybrid/01.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@a1b0ef5971009f73567cd157e37b3052aa9ccbe9/posts/2026-10-25_gv80-hybrid/02.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@a1b0ef5971009f73567cd157e37b3052aa9ccbe9/posts/2026-10-25_gv80-hybrid/03.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@a1b0ef5971009f73567cd157e37b3052aa9ccbe9/posts/2026-10-25_gv80-hybrid/04.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@a1b0ef5971009f73567cd157e37b3052aa9ccbe9/posts/2026-10-25_gv80-hybrid/05.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@a1b0ef5971009f73567cd157e37b3052aa9ccbe9/posts/2026-10-25_gv80-hybrid/06.jpg"
+ ],
+ "caption_url": "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@a1b0ef5971009f73567cd157e37b3052aa9ccbe9/posts/2026-10-25_gv80-hybrid/caption.txt"
+}
