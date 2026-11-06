@@ -1,0 +1,15 @@
+{
+ "key": "genesis-gwangju",
+ "name": "2026-11-06_genesis-gwangju",
+ "status": "ready",
+ "candidate": "1-5",
+ "report_date": "2026-11-06",
+ "images": [
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@c7d5ab2546e0aaebd2f5c39908a5861630bf11ee/posts/2026-11-06_genesis-gwangju/01.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@c7d5ab2546e0aaebd2f5c39908a5861630bf11ee/posts/2026-11-06_genesis-gwangju/02.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@c7d5ab2546e0aaebd2f5c39908a5861630bf11ee/posts/2026-11-06_genesis-gwangju/03.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@c7d5ab2546e0aaebd2f5c39908a5861630bf11ee/posts/2026-11-06_genesis-gwangju/04.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@c7d5ab2546e0aaebd2f5c39908a5861630bf11ee/posts/2026-11-06_genesis-gwangju/05.jpg"
+ ],
+ "caption_url": "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@c7d5ab2546e0aaebd2f5c39908a5861630bf11ee/posts/2026-11-06_genesis-gwangju/caption.txt"
+}
