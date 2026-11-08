@@ -1,0 +1,15 @@
+{
+ "key": "magma-gt-topgear",
+ "name": "2026-11-08_magma-gt-topgear",
+ "status": "ready",
+ "candidate": "1-5",
+ "report_date": "2026-11-08",
+ "images": [
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@3eeef986f9205edafc47630d1bec60f197cf690b/posts/2026-11-08_magma-gt-topgear/01.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@3eeef986f9205edafc47630d1bec60f197cf690b/posts/2026-11-08_magma-gt-topgear/02.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@3eeef986f9205edafc47630d1bec60f197cf690b/posts/2026-11-08_magma-gt-topgear/03.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@3eeef986f9205edafc47630d1bec60f197cf690b/posts/2026-11-08_magma-gt-topgear/04.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@3eeef986f9205edafc47630d1bec60f197cf690b/posts/2026-11-08_magma-gt-topgear/05.jpg"
+ ],
+ "caption_url": "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@3eeef986f9205edafc47630d1bec60f197cf690b/posts/2026-11-08_magma-gt-topgear/caption.txt"
+}
