@@ -1,0 +1,15 @@
+{
+ "key": "cybercab-display",
+ "name": "2026-11-11_cybercab-display",
+ "status": "ready",
+ "candidate": "1-2",
+ "report_date": "2026-11-11",
+ "images": [
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@18d33fb2672af823c0a50def2c9202eebf9011a8/posts/2026-11-11_cybercab-display/01.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@18d33fb2672af823c0a50def2c9202eebf9011a8/posts/2026-11-11_cybercab-display/02.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@18d33fb2672af823c0a50def2c9202eebf9011a8/posts/2026-11-11_cybercab-display/03.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@18d33fb2672af823c0a50def2c9202eebf9011a8/posts/2026-11-11_cybercab-display/04.jpg",
+  "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@18d33fb2672af823c0a50def2c9202eebf9011a8/posts/2026-11-11_cybercab-display/05.jpg"
+ ],
+ "caption_url": "https://cdn.jsdelivr.net/gh/Piebig/CARDNEWS_PUBLIC@18d33fb2672af823c0a50def2c9202eebf9011a8/posts/2026-11-11_cybercab-display/caption.txt"
+}
